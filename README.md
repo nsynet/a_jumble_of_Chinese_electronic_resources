@@ -1,13 +1,8 @@
+[TOC]
+
 注:因为国内原因,很多资源无法使用博客,贴到本git仓.
 
-# 通用
-
-## 张恺帆回忆录
-//通过网盘分享的文件：张恺帆回忆录 (张恺帆口述 宋霖记录整理) (Z-Library).pdf
-```
-https://pan.baidu.com/s/1ikjNrUTj704GkeCUrucoXA?pwd=v8pj
-```
- 提取码: v8pj
+# 娱乐
 
 ## 寅次郎的故事 系列电影
 //通过网盘分享的知识：_寅次郎的故事
@@ -36,7 +31,43 @@ https://pan.baidu.com/s/1ikjNrUTj704GkeCUrucoXA?pwd=v8pj
 https://vtj2nnqb8z.feishu.cn/drive/folder/fldcnbXOwYTxdXcoo6qtEuQd7vb?from=from_copylink
 ```
 
-# 技术相关
+## 高晓松作品集
+
+免费的，拿走不谢~
+————
+(1)微信公众号里搜 “高晓松音频全集资源”，能搜到一些公众号收集的音频。
+
+优点:不需要下载到手机里
+
+缺点:一般只有音频，无视频
+
+(2)百度网盘下载（或在线观看），请在百度网盘添加好友 nsynet
+
+优点：在百度网盘里在线看(不下载),或者选择性下载自己感兴趣的节目
+
+缺点：为了避免敏感词，很多文档名是乱码的；百度网盘不付费下载慢，不到160GB
+
+(3)微力同步工具软件密钥
+```
+B4MAYORS3IYF65AKFERTNNJZ2RVTBFR3HT6QKYZN5MKXM7MGQIMXOQ
+```
+有《晓说》等不到160G资源免费下载，（微力同步用法可以自己百度，最好用电脑挂机下载）
+
+优点：文档名没有乱码，去掉了插入广告
+
+缺点：选择性下载需要付费，否则只能整体下载,适合长时间挂机的电脑
+
+
+
+# 书
+
+## 张恺帆回忆录
+//通过网盘分享的文件：张恺帆回忆录 (张恺帆口述 宋霖记录整理) (Z-Library).pdf
+```
+https://pan.baidu.com/s/1ikjNrUTj704GkeCUrucoXA?pwd=v8pj
+```
+ 提取码: v8pj
+
 
 ## 电子技术书籍和电子项目(原理图+代码)的git仓合集
 [desvsxfer/electronics_project (gitee.com)](https://gitee.com/nsynet/electronics_project)
@@ -60,18 +91,11 @@ https://pan.baidu.com/s/1tWOjnH3zDEiUgkDMGko9Fw?pwd=vwjn
  提取码: vwjn
 
 
-
-
-
 ## 无线电合订本光盘1955-2000
 ```
 https://pan.baidu.com/s/1Kjlm2WaUv9NAsa4Ak4QdHw?pwd=kdpg
 ```
  提取码: kdpg
-
-
-
-# 中小学教育相关
 
 
 
@@ -99,9 +123,6 @@ https://pan.baidu.com/s/1BSjoHPINDF5n3RP23S-sXQ?pwd=8611
 ```
 提取码：8611
 
-复制这段内容打开「白 度网 盘APP 即可获取」
-
-两个网盘内容相同，请自由选择，感谢亲的支持。
 
 
 ## 【超级会员V6】通过百度网盘分享的文件：剑桥join in 3上（老教材）课件
@@ -122,16 +143,6 @@ https://pan.quark.cn/s/3de1ff387ce1
 
 
 
-# 其他
-
-
-//工具-频点和绝对频点转换工具.exe
-```
-链接：https://pan.baidu.com/s/11KF0cdLQSCFsRGWkWcpBqw?pwd=8k99 
-提取码：8k99 
-```
-
-
 
 ## <少年科学画报>老刊物
 
@@ -142,13 +153,25 @@ https://pan.quark.cn/s/3de1ff387ce1
 
 
 ## <中学科技>老刊物
-百度网盘无法分享,只能天翼网盘
+不知道为什么为什么敏感词了,各种网盘都不能分享,只能微力同步私人分享了,微力同步密码如下,小于4GB:
 ```
-https://cloud.189.cn/t/niIRJfYrAbam（访问码：5wr0）
+B45XAE4FPZZCK3NFX4RU33XSLACSDVCK5R4VFQNMZ2MNOJJR3KSZAA
 ```
 
 ## 中国早期国产计算机相关
 
 ```
 https://cloud.189.cn/t/MjiimuRrA7Bf（访问码：w0pv）
+```
+
+
+
+
+# 其他
+
+
+//工具-频点和绝对频点转换工具.exe
+```
+链接：https://pan.baidu.com/s/11KF0cdLQSCFsRGWkWcpBqw?pwd=8k99 
+提取码：8k99 
 ```
