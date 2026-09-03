@@ -157,6 +157,12 @@ https://cloud.189.cn/web/share?code=ZzYRreqIBniy（访问码：hh92）
 链接: https://pan.baidu.com/s/5Ns19uNb7CtOrheByhB_xZA 
 ```
 
+## <我们爱科学> PDF1960-2024
+
+```
+
+https://pan.xunlei.com/s/VO_RVAwU8QiXL6ecUjx5XEpZA1?pwd=zqcg#
+```
 
 ## <中学科技>老刊物
 不知道为什么为什么敏感词了,各种网盘都不能分享,只能微力同步私人分享了,微力同步密码如下,小于4GB:
