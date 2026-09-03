@@ -144,7 +144,11 @@ https://pan.quark.cn/s/3de1ff387ce1
 ```
 
 
+## <少年科学>老刊物
 
+```
+https://cloud.189.cn/web/share?code=ZzYRreqIBniy（访问码：hh92）
+```
 
 ## <少年科学画报>老刊物
 
