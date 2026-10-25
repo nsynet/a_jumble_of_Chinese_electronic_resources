@@ -146,6 +146,10 @@ https://pan.baidu.com/s/1hB1sLEZl_S2VXkGSStE1YA?pwd=2025 
 ```
 提取码:2025
 
+##  外研社新剑桥6上【精品PPT（4个单元，更新中）+教案+备课资料】
+```
+链接:https://pan.baidu.com/s/1vVcLjwIZLVrSO0_cPlAWqA?pwd=2026 
+```
 ## 全套小学电子课本(有些扫码的,不清晰),其实如果不下载pdf的话,可以看 智慧中小学 的在线教材:
 ```
 https://pan.quark.cn/s/3de1ff387ce1
